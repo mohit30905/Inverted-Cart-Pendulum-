@@ -32,8 +32,8 @@ This project is based on concepts and code structure explained in this excellent
 - Control System Toolbox (for `lqr`, `place` functions)
 
 ## 📂 Project Structure
-  **draw.m** # Sketch of cart-pendulum
-  **pendulum_cart.m**  # For nonlinear dynamic equation of state space dXdt
-  **Update.m** # to run the sketch for each X vector at every instance of time
-  **sim_pendulum.m** # Simulate the sketch with 0 forces or free fall condition
-  **lqr_poles.m** # Simulate sketch to stabilize pendulum in upright position
+ - **draw.m** # Sketch of cart-pendulum
+ - **pendulum_cart.m**  # For nonlinear dynamic equation of state space dXdt
+ - **Update.m** # to run the sketch for each X vector at every instance of time
+ - **sim_pendulum.m** # Simulate the sketch with 0 forces or free fall condition
+ - **lqr_poles.m** # Simulate sketch to stabilize pendulum in upright position
