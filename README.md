@@ -37,3 +37,9 @@ This project is based on concepts and code structure explained in this excellent
  - **Update.m** # to run the sketch for each X vector at every instance of time
  - **sim_pendulum.m** # Simulate the sketch with 0 forces or free fall condition
  - **lqr_poles.m** # Simulate sketch to stabilize pendulum in upright position
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project with proper credit.
+
